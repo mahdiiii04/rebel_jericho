@@ -32,7 +32,7 @@ _DESCRIPTION = """\
 Jericho DATASET for relation extraction from Text based games observations 
 """
 
-_URL = "C:\\Users\\mahdi\\Documents\\Project\\REBEL\\data\\jericho\\"
+_URL = '/content/rebel_jericho/data/jericho'
 _URLS = {
     "train": _URL + "train.json",
     "dev": _URL + "val.json",
