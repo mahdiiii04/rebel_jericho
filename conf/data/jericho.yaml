@@ -1,12 +1,12 @@
 # @package _global_
 
 num_workers: 8
-dataset_name: 'C:/Users/mahdi/Documents/Project/REBEL/rebel/datasets/jericho.py'
+dataset_name: '/content/rebel_jericho/datasets/jericho.py'
 text_column: 'context'
 target_column: 'triplets'
-train_file: 'C:/Users/mahdi/Documents/Project/REBEL/rebel/data/jericho/train.json'
-validation_file: 'C:/Users/mahdi/Documents/Project/REBEL/rebel/data/jericho/val.json'
-test_file: 'C:/Users/mahdi/Documents/Project/REBEL/rebel/data/jericho/test.json'
+train_file: '/content/rebel_jericho/data/jericho/train.json'
+validation_file: '/content/rebel_jericho/data/jericho/val.json'
+test_file: '/content/rebel_jericho/data/jericho/test.json'
 overwrite_cache: False
 preprocessing_num_workers: 
 max_source_length: 2300
