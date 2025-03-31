@@ -1,0 +1,11 @@
+# @package _global_
+
+model_name_or_path: 'C:/Users/mahdi/Documents/Project/REBEL/rebel/model'
+config_name: 'C:/Users/mahdi/Documents/Project/REBEL/rebel/model'
+tokenizer_name: 'C:/Users/mahdi/Documents/Project/REBEL/rebel/model'
+cache_dir: 
+use_fast_tokenizer: True
+
+model_revision: 'main'
+use_auth_token: False
+finetune: True
