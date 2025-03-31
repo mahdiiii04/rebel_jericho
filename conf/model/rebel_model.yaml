@@ -1,8 +1,8 @@
 # @package _global_
 
-model_name_or_path: 'C:/Users/mahdi/Documents/Project/REBEL/rebel/model'
-config_name: 'C:/Users/mahdi/Documents/Project/REBEL/rebel/model'
-tokenizer_name: 'C:/Users/mahdi/Documents/Project/REBEL/rebel/model'
+model_name_or_path: '/content/rebel_jericho/model'
+config_name: '/content/rebel_jericho/model'
+tokenizer_name: '/content/rebel_jericho/model'
 cache_dir: 
 use_fast_tokenizer: True
 
