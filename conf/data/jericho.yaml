@@ -9,9 +9,9 @@ validation_file: '/content/rebel_jericho/data/jericho/val.json'
 test_file: '/content/rebel_jericho/data/jericho/test.json'
 overwrite_cache: False
 preprocessing_num_workers: 
-max_source_length: 2300
-max_target_length: 2300
-val_max_target_length: 1000
+max_source_length: 256
+max_target_length: 128
+val_max_target_length: 128
 pad_to_max_length: False
 max_train_samples:
 max_val_samples: 
